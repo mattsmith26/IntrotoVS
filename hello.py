@@ -6,3 +6,4 @@ print(msg)
 # 2. activate venv
 
 # 3. install libraries you need for project
+print
